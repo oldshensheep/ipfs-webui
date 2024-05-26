@@ -22,7 +22,7 @@
     "translationProjectIntro": "Добавляйте или уточняйте переводы и делайте IPFS лучше для всех!",
     "translationProjectLink": "Присоединитесь к проекту перевода IPFS"
   },
-  "apiDescription": "<0>Если в вашем узле настроен <1>собственный адрес API</1>, включая порт, отличный от порта по умолчанию 5001, введите его здесь.</0>",
+  "apiDescription": "<0>If your node is configured with a <1>custom Kubo RPC API address</1>, including a port other than the default 5001, enter it here.</0>",
   "publicGatewayDescription": "<0>Выберите, какой <1>общедоступный шлюз</1> вы хотите использовать при создании общих ссылок.</0>",
   "cliDescription": "<0>Активируйте эту опцию, чтобы отображать значок \"просмотреть код\" <1></1> рядом с общими командами IPFS. Нажатие на него открывает модальное окно с кодом заданной команды в командной строке, так чтобы вы могли вставить его в интерфейс командной строки IPFS в вашей консоли.</0>",
   "cliModal": {
@@ -132,8 +132,8 @@
       "paragraph2": "Если вы используете приложение IPFS для рабочего стола, в нем у вас будут также некоторые специфические настройки."
     },
     "step2": {
-      "title": "Изменённый API адрес ",
-      "paragraph1": "Если вы настроили собственный адрес API в своем узле IPFS, вы можете обновить свой файл конфигураций прямо здесь, вместо ручного редактирования JSON."
+      "title": "Custom Kubo RPC API address",
+      "paragraph1": "If you've configured your Kubo-compatible IPFS node with a custom RPC API address, you can update your config file right here instead of editing the JSON by hand."
     },
     "step3": {
       "title": "Службы подкрепления",
